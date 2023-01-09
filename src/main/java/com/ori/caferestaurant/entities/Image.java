@@ -37,7 +37,7 @@ public class Image {
 
     @Override
     public String toString() {
-        return " Image{ " +
+        return " Image { " +
                 "id=" + id +
                 ", image_data='" + image_data + '\'' +
                 '}';
